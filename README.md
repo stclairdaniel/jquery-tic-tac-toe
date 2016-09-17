@@ -1,4 +1,4 @@
-# Towers of Hanoi
+# Tic Tac Toe
 
 [Live][link]
 
