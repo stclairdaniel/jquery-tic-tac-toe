@@ -6,7 +6,7 @@
 
 Tic Tac Toe is written using JavaScript ES5,jQuery, CSS, and HTMl. It has a sleek, minimalist design.
 
-![game](http://i.imgur.com/ErJvMqv.png)
+<img src="http://i.imgur.com/ErJvMqv.png" style="width: 150px;height: auto"/>
 
 ## How To Play
 
